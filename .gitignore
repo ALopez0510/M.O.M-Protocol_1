@@ -1,0 +1,12 @@
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/UserSettings/
+/MemoryCaptures/
+.vs/
+.gradle/
+ExportedObj/
+.generated/

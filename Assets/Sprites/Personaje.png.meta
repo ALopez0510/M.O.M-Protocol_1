@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: 76461229da6da024c90726462d1e05e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1597188336547182666
+    second: Personaje_0
+  - first:
+      213: 4723107735738678597
+    second: Idle_0
+  - first:
+      213: -7385789195546760866
+    second: Idle_1
+  - first:
+      213: 3234629978573100161
+    second: Idle_2
+  - first:
+      213: 6373048116405451881
+    second: Idle_3
+  - first:
+      213: 4944230376442633554
+    second: Run_0
+  - first:
+      213: -2274363484027164459
+    second: Run_1
+  - first:
+      213: 8284087734974297348
+    second: Run_2
+  - first:
+      213: 5304202850863732263
+    second: Run_3
+  - first:
+      213: 2833043080597125133
+    second: Run_4
+  - first:
+      213: 7460046300004610927
+    second: Jump_0
+  - first:
+      213: 7034338576483803127
+    second: Jump_1
+  - first:
+      213: 6054277451648750542
+    second: Jump_2
+  - first:
+      213: 6937500446539429301
+    second: Jump_3
+  - first:
+      213: 3580086529375993838
+    second: Jump_4
+  - first:
+      213: 3630178267427638470
+    second: Jump_5
+  - first:
+      213: 807139013275419232
+    second: WallSlide_0
+  - first:
+      213: 4790224360120944667
+    second: WallSlide_1
+  - first:
+      213: -6619086115762078173
+    second: WallSlide_2
+  - first:
+      213: 1878823750932440318
+    second: DodgeRoll_0
+  - first:
+      213: 8264253617987743848
+    second: DodgeRoll_1
+  - first:
+      213: -626319289689604644
+    second: DodgeRoll_2
+  - first:
+      213: -4651497927010665482
+    second: DodgeRoll_3
+  - first:
+      213: -1638368024957496629
+    second: DodgeRoll_4
+  - first:
+      213: -6449634944144453690
+    second: DodgeRoll_5
+  - first:
+      213: 169202997821533551
+    second: ThrowWeapon_0
+  - first:
+      213: -6467507980156387581
+    second: ThrowWeapon_1
+  - first:
+      213: -5261511309427981325
+    second: ThrowWeapon_2
+  - first:
+      213: 4252582137483922046
+    second: ThrowWeapon_3
+  - first:
+      213: -8055880117806994283
+    second: ThrowWeapon_4
+  - first:
+      213: -8892793007219717797
+    second: ThrowWeapon_5
+  - first:
+      213: 808008191400186612
+    second: ThrownWeapon_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1135
+        width: 288
+        height: 322
+      alignment: 9
+      pivot: {x: 0.3920703, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6b48e970441348930ac569ebcfd1d
+      internalID: 4723107735738678597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1135
+        width: 282
+        height: 322
+      alignment: 9
+      pivot: {x: 0.3898468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d62a90c8b14109bf2dc813d3a21a17
+      internalID: -7385789195546760866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1135
+        width: 259
+        height: 322
+      alignment: 9
+      pivot: {x: 0.4115893, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c45af39a84561b66e5246c40e4cee
+      internalID: 3234629978573100161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1135
+        width: 277
+        height: 322
+      alignment: 9
+      pivot: {x: 0.38404775, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29ec7a10c74d6cbc1b06eabc19896a
+      internalID: 6373048116405451881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_0
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1141
+        width: 231
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5336153, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e163cfe065a4f6996f5b3676e8a8d9b
+      internalID: 4944230376442633554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1134
+        width: 252
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5190987, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7781506752744d86aaf973e8618270f7
+      internalID: -2274363484027164459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1141
+        width: 249
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5007756, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299a47b11754b6187650def50209933
+      internalID: 8284087734974297348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1134
+        width: 252
+        height: 323
+      alignment: 9
+      pivot: {x: 0.52274865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61367e8c63a64c06b5a41b734d2bacfc
+      internalID: 5304202850863732263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_4
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1140
+        width: 229
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5280986, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9df4b00974f80b5d8447426fcc227
+      internalID: 2833043080597125133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 631
+        width: 254
+        height: 282
+      alignment: 9
+      pivot: {x: 0.46969798, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b686738b646409f15fd923ca98d68
+      internalID: 7460046300004610927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 631
+        width: 219
+        height: 310
+      alignment: 9
+      pivot: {x: 0.48590535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd6838b97a453081bc4c20f92d9c29
+      internalID: 7034338576483803127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_2
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 665
+        width: 241
+        height: 356
+      alignment: 9
+      pivot: {x: 0.4443357, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a50de3d2ff457fba843046a51a2f16
+      internalID: 6054277451648750542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 710
+        width: 213
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5083163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf815a0f3a734e3784e6dcda070c5d6a
+      internalID: 6937500446539429301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 671
+        width: 203
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5360144, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0c5e68f0843e7b6675aeaa755c1e5
+      internalID: 3580086529375993838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 614
+        width: 281
+        height: 322
+      alignment: 9
+      pivot: {x: 0.36093324, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31747876b55466ba636c3e4033660c2
+      internalID: 3630178267427638470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallSlide_0
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 646
+        width: 205
+        height: 323
+      alignment: 9
+      pivot: {x: 0.4655887, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b895e521576945dd93b99de7e74823c6
+      internalID: 807139013275419232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallSlide_1
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 648
+        width: 205
+        height: 322
+      alignment: 9
+      pivot: {x: 0.47441524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f690387038341c0b7f69731d56f7698
+      internalID: 4790224360120944667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallSlide_2
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 660
+        width: 204
+        height: 322
+      alignment: 9
+      pivot: {x: 0.46129295, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681036b382ea4b47834c48127cfe02cb
+      internalID: -6619086115762078173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeRoll_0
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 396
+        width: 210
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b198eb2f274ba495ae99c154e2d75d
+      internalID: 1878823750932440318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeRoll_1
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 399
+        width: 201
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577559ca574a4129931bb8cb72623ead
+      internalID: 8264253617987743848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeRoll_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 407
+        width: 224
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b744cd18584dacb62732b3f3120ea8
+      internalID: -626319289689604644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeRoll_3
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 395
+        width: 212
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a664c50594f6bb9a8f637d62fe07b
+      internalID: -4651497927010665482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeRoll_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 397
+        width: 215
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36e69d4bdc4c79bc9d4b9fd57e8958
+      internalID: -1638368024957496629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DodgeRoll_5
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 402
+        width: 276
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5561267, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a80bd4bd745b78b84b2bf134d82a0
+      internalID: -6449634944144453690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowWeapon_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 304
+        height: 318
+      alignment: 9
+      pivot: {x: 0.35666245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c3f8222b1b4da390ccb08c214b16e8
+      internalID: 169202997821533551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowWeapon_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 12
+        width: 306
+        height: 318
+      alignment: 9
+      pivot: {x: 0.35492882, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0acf8b3316431780a6cfda8974fdc2
+      internalID: -6467507980156387581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowWeapon_2
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 12
+        width: 305
+        height: 318
+      alignment: 9
+      pivot: {x: 0.3689525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13566b8df9ef4b7db4ea1b67af690c59
+      internalID: -5261511309427981325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowWeapon_3
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 12
+        width: 286
+        height: 319
+      alignment: 9
+      pivot: {x: 0.3836414, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302afcf09774f5f935c9e5e2027c9c5
+      internalID: 4252582137483922046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowWeapon_4
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 12
+        width: 285
+        height: 322
+      alignment: 9
+      pivot: {x: 0.3868271, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ce143d816545cca6b9254116b1deed
+      internalID: -8055880117806994283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowWeapon_5
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 12
+        width: 237
+        height: 330
+      alignment: 9
+      pivot: {x: 0.4719944, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162ab9afa84496694bf29ecaaf8a239
+      internalID: -8892793007219717797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrownWeapon_0
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 172
+        width: 156
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b2326ce0f40d28420f76fb6fbe918
+      internalID: 808008191400186612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DodgeRoll_0: 1878823750932440318
+      DodgeRoll_1: 8264253617987743848
+      DodgeRoll_2: -626319289689604644
+      DodgeRoll_3: -4651497927010665482
+      DodgeRoll_4: -1638368024957496629
+      DodgeRoll_5: -6449634944144453690
+      Idle_0: 4723107735738678597
+      Idle_1: -7385789195546760866
+      Idle_2: 3234629978573100161
+      Idle_3: 6373048116405451881
+      Jump_0: 7460046300004610927
+      Jump_1: 7034338576483803127
+      Jump_2: 6054277451648750542
+      Jump_3: 6937500446539429301
+      Jump_4: 3580086529375993838
+      Jump_5: 3630178267427638470
+      Personaje_0: -1597188336547182666
+      Run_0: 4944230376442633554
+      Run_1: -2274363484027164459
+      Run_2: 8284087734974297348
+      Run_3: 5304202850863732263
+      Run_4: 2833043080597125133
+      ThrowWeapon_0: 169202997821533551
+      ThrowWeapon_1: -6467507980156387581
+      ThrowWeapon_2: -5261511309427981325
+      ThrowWeapon_3: 4252582137483922046
+      ThrowWeapon_4: -8055880117806994283
+      ThrowWeapon_5: -8892793007219717797
+      ThrownWeapon_0: 808008191400186612
+      WallSlide_0: 807139013275419232
+      WallSlide_1: 4790224360120944667
+      WallSlide_2: -6619086115762078173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 2b8db35c92ab7b24aab94dbce75065c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6605895173340245770
+    second: Armas_0
+  - first:
+      213: -2778689486090904392
+    second: Pistol_Idle
+  - first:
+      213: 778710180974081000
+    second: Pistol_Fire0
+  - first:
+      213: 2845830075266268637
+    second: Pistol_Fire1
+  - first:
+      213: -9222682252371397449
+    second: Pistol_Thrown0
+  - first:
+      213: -4091032273582580458
+    second: Pistol_Thrown1
+  - first:
+      213: 1705007185243264008
+    second: AnvilLauncher_Idle
+  - first:
+      213: -8950789434993140022
+    second: AnvilLauncher_Fire0
+  - first:
+      213: 654075860964892089
+    second: AnvilLauncher_Fire1
+  - first:
+      213: -769082748698209750
+    second: AnvilLauncher_Fire2
+  - first:
+      213: 4177115764651611695
+    second: Anvil_Projectile
+  - first:
+      213: 7018938513364222621
+    second: AnvilLauncher_Thrown0
+  - first:
+      213: 679082975289957437
+    second: AnvilLauncher_Thrown1
+  - first:
+      213: -3360897807232202712
+    second: AnvilLauncher_Thrown2
+  - first:
+      213: 7024547954438307512
+    second: SlimeGun_Idle
+  - first:
+      213: -3239274500646299554
+    second: SlimeGun_Fire0
+  - first:
+      213: -8894800312352759952
+    second: SlimeGun_Fire1
+  - first:
+      213: -9176890638069817501
+    second: SlimeGun_Fire2
+  - first:
+      213: 6083203456291174053
+    second: Slime_Projectile0
+  - first:
+      213: 5371625670696854662
+    second: Slime_Projectile1
+  - first:
+      213: -4459213661460488089
+    second: Slime_Splat0
+  - first:
+      213: -8357788639119207363
+    second: Slime_Splat1
+  - first:
+      213: -927741431283240081
+    second: SlimeGun_Thrown0
+  - first:
+      213: -6792036784583416985
+    second: SlimeGun_Thrown1
+  - first:
+      213: 7423336124096318314
+    second: GravityRay_Idle
+  - first:
+      213: -5550678103228684104
+    second: GravityRay_Fire0
+  - first:
+      213: -1700218865896088008
+    second: GravityRay_Fire1
+  - first:
+      213: -6706174394750546373
+    second: GravityRay_Fire2
+  - first:
+      213: -9196176317673837477
+    second: GravityRay_Fire3
+  - first:
+      213: -2063482090783412668
+    second: GravityRay_Thrown0
+  - first:
+      213: 1091485357716187303
+    second: GravityRay_Thrown1
+  - first:
+      213: 7437799058829184603
+    second: QuantumLadle_Idle
+  - first:
+      213: -7512570279870039446
+    second: QuantumLadle_Fire0
+  - first:
+      213: -7994023261605769178
+    second: QuantumLadle_Fire1
+  - first:
+      213: -6019268794997929983
+    second: Quantum_Duck
+  - first:
+      213: -181994771592717991
+    second: Quantum_Anvil
+  - first:
+      213: 260337069312525897
+    second: Quantum_Toaster
+  - first:
+      213: -1046907400311187016
+    second: QuantumLadle_Thrown0
+  - first:
+      213: 5894210285571767850
+    second: QuantumLadle_Thrown1
+  - first:
+      213: 4378639293351653001
+    second: Effect_MuzzleFlash
+  - first:
+      213: 907986255046345572
+    second: Effect_Fireball
+  - first:
+      213: -2586603808404250979
+    second: Effect_SlimeBurst
+  - first:
+      213: -930888780839338642
+    second: Effect_SlimeSplash
+  - first:
+      213: -2824650355608641183
+    second: Effect_BulletImpact
+  - first:
+      213: 1007153524036116031
+    second: Effect_Explosion
+  - first:
+      213: -3303573760874453453
+    second: Effect_GreenSplash
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 260
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pistol_Idle
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1278
+        width: 161
+        height: 112
+      alignment: 9
+      pivot: {x: 0.26086956, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f20bb9ca944c48a8b1a4b510ab1c4e
+      internalID: -2778689486090904392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_Fire0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1278
+        width: 219
+        height: 112
+      alignment: 9
+      pivot: {x: 0.19178082, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eea00bfb784d1b9af23ce727c49f02
+      internalID: 778710180974081000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_Fire1
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1278
+        width: 248
+        height: 128
+      alignment: 9
+      pivot: {x: 0.16935484, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15999cf24aa841ff9168d47d20cef313
+      internalID: 2845830075266268637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_Thrown0
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1255
+        width: 155
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2338fc8ce12f45368571532fe154b35e
+      internalID: -9222682252371397449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pistol_Thrown1
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1267
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1994845cd2447bcbcf9d1f2ffa3d3c9
+      internalID: -4091032273582580458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnvilLauncher_Idle
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1026
+        width: 259
+        height: 143
+      alignment: 9
+      pivot: {x: 0.28957528, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e748e8113b4078bab406f6828ff0e8
+      internalID: 1705007185243264008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnvilLauncher_Fire0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1026
+        width: 259
+        height: 143
+      alignment: 9
+      pivot: {x: 0.28957528, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1afe15c352408bb21e1b99a1f3b862
+      internalID: -8950789434993140022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnvilLauncher_Fire1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1030
+        width: 265
+        height: 146
+      alignment: 9
+      pivot: {x: 0.28301886, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde6a464b4c4057a3c669f4939d56cc
+      internalID: 654075860964892089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnvilLauncher_Fire2
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1036
+        width: 518
+        height: 174
+      alignment: 9
+      pivot: {x: 0.14478764, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce9517701224b75b389e5d0675e0cb9
+      internalID: -769082748698209750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anvil_Projectile
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1054
+        width: 143
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66a51e089947f8b56bb28b887364df
+      internalID: 4177115764651611695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnvilLauncher_Thrown0
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1009
+        width: 144
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14fb8671e347af8e8436c6f88d9fc1
+      internalID: 7018938513364222621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnvilLauncher_Thrown1
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1031
+        width: 197
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb60704066e94a989cc88e7a2cf18ec3
+      internalID: 679082975289957437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnvilLauncher_Thrown2
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1027
+        width: 202
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fd59ebc79a4925877561316b03aaef
+      internalID: -3360897807232202712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeGun_Idle
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 733
+        width: 207
+        height: 196
+      alignment: 9
+      pivot: {x: 0.2657005, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74103dddcef48ecaf35547095ac3e5b
+      internalID: 7024547954438307512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeGun_Fire0
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 733
+        width: 209
+        height: 196
+      alignment: 9
+      pivot: {x: 0.2631579, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099ba73ac5f4081a16df2e3f78d719b
+      internalID: -3239274500646299554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeGun_Fire1
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 744
+        width: 212
+        height: 198
+      alignment: 9
+      pivot: {x: 0.25943395, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fca095e5c44e4a19db4c3ba710c60
+      internalID: -8894800312352759952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeGun_Fire2
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 750
+        width: 239
+        height: 214
+      alignment: 9
+      pivot: {x: 0.23012552, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcae69768da4e50b9fa52387c765672
+      internalID: -9176890638069817501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Projectile0
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 807
+        width: 72
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138b9169caf491693584e27fad66b35
+      internalID: 6083203456291174053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Projectile1
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 796
+        width: 104
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c016695fde435c9e7834a484f9a4ef
+      internalID: 5371625670696854662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Splat0
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 779
+        width: 196
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb41161be4e40ad8d4a26ded3a5d27a
+      internalID: -4459213661460488089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Splat1
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 774
+        width: 178
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181d2a5d02524d56a6073f9d764ea24a
+      internalID: -8357788639119207363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeGun_Thrown0
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 750
+        width: 180
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59db755a3bb54754a53f3403ebcae6c9
+      internalID: -927741431283240081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeGun_Thrown1
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 774
+        width: 183
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e94505c9448e4a9701de096d68486
+      internalID: -6792036784583416985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityRay_Idle
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 538
+        width: 214
+        height: 173
+      alignment: 9
+      pivot: {x: 0.25700936, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cadf5ee36dc4429aeab31d8cf7a4fa3
+      internalID: 7423336124096318314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityRay_Fire0
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 538
+        width: 213
+        height: 173
+      alignment: 9
+      pivot: {x: 0.25821596, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991e06f13b644969b52f237cfba4c13d
+      internalID: -5550678103228684104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityRay_Fire1
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 538
+        width: 232
+        height: 181
+      alignment: 9
+      pivot: {x: 0.23706897, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1dbffe53c44ee4ae727da387d91db3
+      internalID: -1700218865896088008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityRay_Fire2
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 538
+        width: 289
+        height: 173
+      alignment: 9
+      pivot: {x: 0.19031142, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e03cc2ed04ec39bd2690568c8722c
+      internalID: -6706174394750546373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityRay_Fire3
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 538
+        width: 395
+        height: 175
+      alignment: 9
+      pivot: {x: 0.1392405, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09389682f964c518af9a84fae07ec5a
+      internalID: -9196176317673837477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityRay_Thrown0
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 550
+        width: 148
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eee347373348b4bfaf385a4615ae9f
+      internalID: -2063482090783412668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GravityRay_Thrown1
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 544
+        width: 188
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0fb03a2344ab4be7a73bd397a0125
+      internalID: 1091485357716187303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumLadle_Idle
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 337
+        width: 274
+        height: 152
+      alignment: 9
+      pivot: {x: 0.17518248, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987705d6f73643b7b6f49e831edad2d3
+      internalID: 7437799058829184603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumLadle_Fire0
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 338
+        width: 339
+        height: 165
+      alignment: 9
+      pivot: {x: 0.14159292, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac8b5b91474603b0337eacb6c097e4
+      internalID: -7512570279870039446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumLadle_Fire1
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 338
+        width: 334
+        height: 180
+      alignment: 9
+      pivot: {x: 0.14371258, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a8e2cb0d024c079ec242cce84de612
+      internalID: -7994023261605769178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quantum_Duck
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 388
+        width: 104
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8592bcccf62f48288c4c820abbcc31a1
+      internalID: -6019268794997929983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quantum_Anvil
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 374
+        width: 131
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db73dd3e23a747fba7c7768409b25b03
+      internalID: -181994771592717991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quantum_Toaster
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 375
+        width: 119
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc149bb7b049019f8813f4648e6958
+      internalID: 260337069312525897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumLadle_Thrown0
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 337
+        width: 174
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd85b77de7a4ab4835cb570049a34ba
+      internalID: -1046907400311187016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuantumLadle_Thrown1
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 335
+        width: 160
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3427e19074e72beab08a565b0daf9
+      internalID: 5894210285571767850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_MuzzleFlash
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 165
+        width: 129
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41c76827f6c4e6085be4cb4c8127b1c
+      internalID: 4378639293351653001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Fireball
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 166
+        width: 155
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230d64a1c7b542f79c237ac3d880ea59
+      internalID: 907986255046345572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_SlimeBurst
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 170
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bace79e419e4a4ba6ec2fefdb28bb29
+      internalID: -2586603808404250979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_SlimeSplash
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 176
+        width: 174
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245cb67f2c949f7ae3f85ad9c319e64
+      internalID: -930888780839338642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_BulletImpact
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 15
+        width: 163
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34988a674664f95b78aa8c205a304c4
+      internalID: -2824650355608641183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Explosion
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 38
+        width: 179
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7610b8ed94c0684aabb111ecfa1a2
+      internalID: 1007153524036116031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_GreenSplash
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 28
+        width: 196
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b60bd3a1a4c4310a3ac6384dd52a4c9
+      internalID: -3303573760874453453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnvilLauncher_Fire0: -8950789434993140022
+      AnvilLauncher_Fire1: 654075860964892089
+      AnvilLauncher_Fire2: -769082748698209750
+      AnvilLauncher_Idle: 1705007185243264008
+      AnvilLauncher_Thrown0: 7018938513364222621
+      AnvilLauncher_Thrown1: 679082975289957437
+      AnvilLauncher_Thrown2: -3360897807232202712
+      Anvil_Projectile: 4177115764651611695
+      Armas_0: 6605895173340245770
+      Effect_BulletImpact: -2824650355608641183
+      Effect_Explosion: 1007153524036116031
+      Effect_Fireball: 907986255046345572
+      Effect_GreenSplash: -3303573760874453453
+      Effect_MuzzleFlash: 4378639293351653001
+      Effect_SlimeBurst: -2586603808404250979
+      Effect_SlimeSplash: -930888780839338642
+      GravityRay_Fire0: -5550678103228684104
+      GravityRay_Fire1: -1700218865896088008
+      GravityRay_Fire2: -6706174394750546373
+      GravityRay_Fire3: -9196176317673837477
+      GravityRay_Idle: 7423336124096318314
+      GravityRay_Thrown0: -2063482090783412668
+      GravityRay_Thrown1: 1091485357716187303
+      Pistol_Fire0: 778710180974081000
+      Pistol_Fire1: 2845830075266268637
+      Pistol_Idle: -2778689486090904392
+      Pistol_Thrown0: -9222682252371397449
+      Pistol_Thrown1: -4091032273582580458
+      QuantumLadle_Fire0: -7512570279870039446
+      QuantumLadle_Fire1: -7994023261605769178
+      QuantumLadle_Idle: 7437799058829184603
+      QuantumLadle_Thrown0: -1046907400311187016
+      QuantumLadle_Thrown1: 5894210285571767850
+      Quantum_Anvil: -181994771592717991
+      Quantum_Duck: -6019268794997929983
+      Quantum_Toaster: 260337069312525897
+      SlimeGun_Fire0: -3239274500646299554
+      SlimeGun_Fire1: -8894800312352759952
+      SlimeGun_Fire2: -9176890638069817501
+      SlimeGun_Idle: 7024547954438307512
+      SlimeGun_Thrown0: -927741431283240081
+      SlimeGun_Thrown1: -6792036784583416985
+      Slime_Projectile0: 6083203456291174053
+      Slime_Projectile1: 5371625670696854662
+      Slime_Splat0: -4459213661460488089
+      Slime_Splat1: -8357788639119207363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
